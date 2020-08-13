@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter application.
+This is a flutter application that creates infinite wordpair and could favourite it with interactive tap.
 
 ## Getting Started
 
